@@ -3,7 +3,7 @@ Un tictactoe de qualité qui vous permettra de passer vos meilleures soirées de
 
 Pour voir du gameplay, venez sur https://twitter.com/The_Onanys/status/1526670320630915072
 
-![screenshot](https://imgur.com/8eeb1f29-c988-455d-98e2-15cf050130b7 "Voici à quoi ça ressemble :p")
+![screenshot](https://i.imgur.com/JxfhMvc.png "Voici à quoi ça ressemble :p")
 
 Merci à Givra (@Infinit23192770) pour avoir produit le sound design
 
