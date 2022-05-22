@@ -6,3 +6,8 @@ Pour voir du gameplay, venez sur https://twitter.com/The_Onanys/status/152667032
 Merci à Givra (@Infinit23192770) pour avoir produit le sound design
 
 ATTENTION : SI LE .EXE NE FONCTIONNE PAS, PENSEZ A INSTALLER JAVA 17 SUR https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+Crédits des gens qui m'ont soutenu pour ce gros et long projet, merci à eux :
+- Snaku
+- Beubeu
+- Keruberosu
