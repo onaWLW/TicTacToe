@@ -12,4 +12,4 @@ Crédits des gens qui m'ont soutenu pour ce gros et long projet, merci à eux :
 - Beubeu
 - Keruberosu
 
-Merci à la daronne de beubeu pour avoir dit que mon jeu était nul
+Merci à la daronne de Beubeu pour avoir dit que mon jeu était nul
