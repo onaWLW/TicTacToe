@@ -11,3 +11,5 @@ Crédits des gens qui m'ont soutenu pour ce gros et long projet, merci à eux :
 - Snaku
 - Beubeu
 - Keruberosu
+
+Merci à la daronne de beubeu pour avoir dit que mon jeu était nul
